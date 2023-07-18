@@ -1,0 +1,5 @@
+create multi-sig wallet:
+0x15E9F1c0c6717aCC31e692907d5b7671B929e167
+
+1 ETH = 10**(18) wei
+1 wei = 10**(-18) ETH
